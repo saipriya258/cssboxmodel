@@ -1,0 +1,51 @@
+.container {
+    width: 500px;
+    /* height: 500px; */
+    border-width: 3px;
+    border-style: solid;
+}
+
+.header {
+    /* height: 80px; */
+    border-width: 3px;
+    border-style: solid;
+    margin: 8px;
+}
+
+.nav1,
+.nav2,
+.nav3 {
+    width: 100px;
+    height: 80px;
+    border-style: solid;
+    margin: 10px;
+    display: inline-block;
+}
+
+.nav1 {
+    margin-right: 50px;
+}
+
+.nav2 {
+    margin-right: 50px;
+}
+
+.section1,
+.section2 {
+    width: 110px;
+    border-style: solid;
+    height: 250px;
+    display: inline-block;
+    margin: 8px;
+}
+
+.section1 {
+    width: 340px;
+}
+
+.footer {
+    height: 50px;
+    margin: 8px;
+    border-style: solid;
+
+}

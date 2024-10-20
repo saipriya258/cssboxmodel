@@ -1,0 +1,44 @@
+.container {
+    width: 500px;
+    /* height: 500px; */
+    border-width: 3px;
+    border-style: solid
+}
+
+.header {
+    height: 80px;
+    border-width: 3px;
+    border-style: solid;
+    margin: 10px;
+}
+
+.nav1,
+.nav2 {
+    width: 80px;
+    height: 50px;
+    border-style: solid;
+    margin: 10px;
+    display: inline-block;
+    
+}
+
+.nav1 {
+    margin-right: 260px;
+}
+
+.section {
+    width: 130px;
+    height: 200px;
+    border-width: 2px;
+    border-style: solid;
+    margin: 15px;
+    display: inline-block;
+}
+
+.footer {
+    
+    height: 100px;
+    margin: 15px;
+    border-style: solid;
+
+}

@@ -1,0 +1,52 @@
+.container {
+    width: 500px;
+    height: 650px;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 20%;
+}
+
+
+.nav1 {
+    width: 400px;
+    height: 60px;
+    border-style: solid;
+    margin: 45px;
+    display: inline-block;
+}
+
+.circle {
+    width: 250px;
+    height: 250px;
+    border-style: solid;
+    border-radius: 100%;
+    margin: 5px;
+    display: inline-block;
+}
+
+.nav2 {
+    width: 350px;
+    height: 30px;
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 10px;
+    border-style: solid;
+}
+
+.nav3 {
+    width: 450px;
+    height: 30px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-style: solid;
+}
+
+.footer {
+    width: 450px;
+    height: 20px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-style: solid;
+}
